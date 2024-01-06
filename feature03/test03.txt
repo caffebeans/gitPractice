@@ -1,2 +1,3 @@
 welcome to beijing
+chinadf dfd 
 test my git 
